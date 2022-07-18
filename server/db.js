@@ -1,0 +1,1 @@
+export const MONGO_CONNECTION = 'mongodb+srv://LOGIN:PASSW@cluster0.apzh1.mongodb.net/blog?retryWrites=true&w=majority'
